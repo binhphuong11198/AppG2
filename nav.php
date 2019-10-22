@@ -11,31 +11,34 @@
 </head>
 <body>
 
-<nav class="navbar navbar-expand-md bg-dark navbar-dark">
-  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#collapsibleNavbar">
-    <span class="navbar-toggler-icon"></span>
-  </button>
-  <div class="collapse navbar-collapse" id="collapsibleNavbar">
-    
-<ul class="navbar-nav">
-      <li class="nav-item">
-        <a class="nav-link" href="indext.php">Bài 1</a>
-      </li>
-      <li class="nav-item">
-        <a class="nav-link" href="index2.php">bài 2</a>
-      </li>
-      <li class="nav-item">
-        <a class="nav-link" href="index3.php">bài 3</a>
-      </li> 
-      <li class="nav-item">
-        <a class="nav-link" href="baiso4.php">bài 4</a>
-      </li>   
-      <li class="nav-item">
-        <a class="nav-link" href="bai5.php">bài 5</a>
-      </li>   
-    </ul>
-  </div>  
-</nav>
+  <nav class="navbar navbar-expand-md bg-dark navbar-dark">
+    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#collapsibleNavbar">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+    <div class="collapse navbar-collapse" id="collapsibleNavbar">
+      
+      <ul class="navbar-nav">
+        <li class="nav-item">
+          <a class="nav-link" href="indext.php">Bài 1</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="index2.php">bài 2</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="index3.php">bài 3</a>
+        </li> 
+        <li class="nav-item">
+          <a class="nav-link" href="baiso4.php">bài 4</a>
+        </li>   
+        <li class="nav-item">
+          <a class="nav-link" href="baiso5.php">bài 5</a>
+        </li>   
+        <li class="nav-item">
+          <a class="nav-link" href="login.php">login</a>
+        </li> 
+      </ul>
+    </div>  
+  </nav>
 </body>
 </html>
 
